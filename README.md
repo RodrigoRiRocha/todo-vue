@@ -80,13 +80,6 @@ todo-vue/
 ![image](https://github.com/user-attachments/assets/c05a25a3-079e-4f24-89d5-b7f5d6902762)
 
 
-### Tela Inicial
-![Tela Inicial](https://via.placeholder.com/800x400?text=Captura+de+Tela+Inicial)
-
-### Adicionando uma Tarefa
-![Adicionando Tarefa](https://via.placeholder.com/800x400?text=Adicionando+Tarefa)
-
----
 
 ## 📖 Como Funciona
 
