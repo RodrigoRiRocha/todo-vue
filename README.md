@@ -104,7 +104,6 @@ todo-vue/
 Este projeto foi desenvolvido com o objetivo de praticar:
 - Componentização no Vue.js.
 - Gerenciamento de estado reativo com `reactive`.
-- Persistência de dados no Local Storage.
 - Estilização responsiva com Bootstrap.
 
 ---
